@@ -1,0 +1,20 @@
+{
+  "name": "handsontable-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "@handsontable/react": "1.1.0",
+    "handsontable": "6.2.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.2.1",
+    "vite": "5.2.0"
+  }
+}
